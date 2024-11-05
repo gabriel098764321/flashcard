@@ -70,8 +70,8 @@ body {
 .cartao__conteudo__resposta {
     backface-visibility: hidden;
     position: absolute;
-    height: 50%;
-    width: 50%;
+    height: 100%;
+    width: 100%;
     box-sizing: border-box;
 }
 
