@@ -37,7 +37,7 @@ body {
     color: var(--text-color);
     border: 1px solid var(--text-color);
     text-align: left;
-    padding: 0.5rem;
+    padding: 0.1rem;
     position: absolute;
     margin: 0.6rem;
     border-radius: 0.6rem;
