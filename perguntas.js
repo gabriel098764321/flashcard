@@ -30,7 +30,7 @@ criaCartao(
 criaCartao(
     'Biologia',
     'Qual é a diferença entre Genótipo e fenótipo?',
-    'Genótipo é a composição genética de um organismo, representando a combinação de alelos para um gene. Fenótipo, por outro lado, são as características observáveis resultantes da interação entre o genótipo e o ambiente, como cor, forma e comportamento.'
+    'Genótipo é a composição genética de um organismo, representando a combinação de alelos para um gene. Fenótipo, por outro lado, são as características observáveis resultantes da interação entre o genótipo e o ambiente, como cor, forma etc.'
 )
 
 criaCartao(
