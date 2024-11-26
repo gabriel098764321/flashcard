@@ -45,8 +45,3 @@ criaCartao(
     'Heredogramas são representações gráficas que mostram a herança de características genéticas em famílias ao longo de gerações, permitindo identificar padrões de herança e a presença de doenças genéticas.'
 )
 
-criaCartao(
-    'Biologia',
-    'Considere uma planta de ervilha que é heterozigota para duas características: cor da semente (amarela é dominante sobre verde) e forma da semente (lisa é dominante sobre rugosa). Qual será a proporção fenotípica esperada na geração F2?',
-    '9:3:3:1 (9 amarelas lisas : 3 amarelas rugosas : 3 verdes lisas : 1 verde rugosa).'
-)
